@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NightModeChangeJava.iml" filepath="$PROJECT_DIR$/.idea/modules/NightModeChangeJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NightModeChangeJava.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NightModeChangeJava.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NightModeChangeJava.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NightModeChangeJava.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NightModeChangeJava.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NightModeChangeJava.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NightModeChangeJava.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NightModeChangeJava.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
